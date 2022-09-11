@@ -12,3 +12,4 @@ export default function Home() {
     </div>
   )
 }
+// REDIS_URL=redis://default:P5Fk0j4s0x8s8l9LdQQz8djiRYSCVCfP@redis-10750.c1.asia-northeast1-1.gce.cloud.redislabs.com:10750
